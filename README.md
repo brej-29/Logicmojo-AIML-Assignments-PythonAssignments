@@ -42,7 +42,7 @@
 
 ## **Overview**
 
-This repository contains three beginner-friendly Python projects designed to help practice programming fundamentals and user input handling:
+This repository contains five beginner-friendly Python projects designed to help practice programming fundamentals and user input handling:
 
 - **Calculator:** A command-line calculator for basic arithmetic operations.
 - **Guessing Game:** An interactive number guessing game with multiple difficulty levels.
