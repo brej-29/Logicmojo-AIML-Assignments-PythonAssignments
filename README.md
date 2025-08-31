@@ -33,6 +33,8 @@
     * [Calculator](#calculator)
     * [Guessing Game](#guessing-game)
     * [To-Do List](#to-do-list)
+    * [File Organizer](#file-organizer)
+    * [Manual ChatBot](#manual-chatbot)
 * [License](#license)
 * [Contact](#contact)
 
@@ -45,7 +47,8 @@ This repository contains three beginner-friendly Python projects designed to hel
 - **Calculator:** A command-line calculator for basic arithmetic operations.
 - **Guessing Game:** An interactive number guessing game with multiple difficulty levels.
 - **To-Do List:** A simple CLI to-do list app to manage your daily tasks.
-
+- **File Organizer:** A simple python program that groups files in a directory based on their extensions.
+- **Manual ChatBot:** A simple, rule-based chatbot that responds to predefined user inputs.
 ---
 
 ## **Getting Started**
@@ -66,6 +69,8 @@ Run any project using the following command in your terminal or command prompt:
 python Calculator.py  
 python GuessingGame.py  
 python ToDoList.py  
+python FileOrganizer.py
+python ManualChatBot.py
 
 ---
 
@@ -79,6 +84,12 @@ A number guessing game where you select a difficulty level and try to guess a ra
 
 ### **To-Do List**
 A command-line to-do list manager. Add tasks, view all tasks with their status, and mark tasks as done. Handles invalid input and ensures a smooth user experience.
+
+### **File Organizer**
+A script to organize files within a specified directory into subfolders based on their file extensions. It automatically creates folders for each file type (e.g., `jpg_files`, `pdf_files`) and moves the files accordingly. Files without an extension are placed in a `No_Extension` folder.
+
+### **Manual ChatBot**
+A simple, rule-based chatbot that responds to predefined user inputs. It demonstrates basic dictionary usage and conditional logic to simulate a conversation.
 
 ---
 
